@@ -1,0 +1,1 @@
+This project is part of CSC 4035 Lab 2 and focuses on creating a well-structured HTML5 webpage using semantic elements and form validation. The goal is to apply best practices in web development, validate HTML using the W3C Validator, and publish the project on GitHub.
